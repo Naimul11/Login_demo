@@ -1,16 +1,18 @@
 # login_page
 
-A new Flutter project.
+# How to run:
 
-## Getting Started
+1. open folder in cmd.
+2. python app.py
+3. can see some link 
+     * Running on all addresses (0.0.0.0)
+     * Running on http://127.0.0.1:5000
+     * Running on http://192.168.0.103:5000
 
-This project is a starting point for a Flutter application.
+4. open file in vs code.
+5. run the main.dart in an emulator.
+6. A login page will appear.
+7. Enter credentials
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
+# it will login to your erp and scrap data from there and show your name and id only.
